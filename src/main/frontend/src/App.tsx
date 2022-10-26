@@ -12,7 +12,7 @@ const App = () => {
   },[]);
   
   return (
-    <h1>Test Data : {test}</h1>
+    <h1>Test Data! : {test}</h1>
   )
 }
 export default App;
